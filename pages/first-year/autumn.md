@@ -7,6 +7,18 @@ title: Autumn 2021
 
 <img src="{{site.baseurl}}/assets/first-year/Schedule.png" alt="schedule" width="400"/>
 
+## Reflection
+
+My goals and expectations have not changed too much since the start of Autumn quarter. Most of the changes would be decreasing the expectations for myself. I didn’t expect the time and energy I needed to figure out my routine, schedule, and social groups first. That means, I would need more time to find myself involved with other activities than just school. My goal would be to join an RSO by next year but start working on more personal projects first.
+
+Something that surprised me about myself in the first quarter in honors is that I actually enjoyed it. I liked the quiz sections where I found myself talking and being more social than I expected. Although I really didn’t enjoy most of the large lectures.
+
+There were actually a lot of things at UW that weren't what I expected. First, I expected a large difference between college and high school. But to me, college did not feel like an entirely new experience. Maybe that has something to do with the fact that I know a lot of people already and that I’ve been around Seattle for quite some time, but still. I also did not realize how loose the structure to academics is and how much freedom we have in learning and studying. With that comes the level of personal discipline required to keep up with current learnings. It is really easy to fall behind if I don’t constantly focus on what I have to get done. I also did not realize how difficult it would be to actually make genuine connections with others. Although I have met a fair amount of people over the course of this quarter, I found myself feeling isolated. Not in a sense that I don’t have friends, I have a lot of friends around me most of the time. But I don’t have those people that I fully am able to depend on. Which isn’t necessarily a bad thing as I learn to depend on myself, but it hasn’t been the easiest journey since.
+
+I learned about a lot of different activities, resource centers, and honors classes in general. I would like to explore more different opportunities and events. I have signed up for my first full sized honors class next quarter, and I’m really excited to learn in a small group environment from interesting professors. I have also learned about different clubs through our experiential learning activities. I am looking to participate in different types of RSOs ranging from outdoor activities to major related competitions.
+
+I hope that by the end of my first year in Honors, I will come out with a good understanding of the honors program, but more importantly a better understanding of myself and what I want from my years at UW. By the end of my time at UW, I hope to have explored a vast variety of classes and activities from Social Science to Humanities to Interdisciplinary Course to more. I hope to study abroad, to learn more about different cultures but more importantly exploring myself and experiencing time at a place far from home.
+
 ## Artifacts
 
 # Honors CS Seminar
