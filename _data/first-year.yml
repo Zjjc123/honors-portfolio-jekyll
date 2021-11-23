@@ -1,0 +1,10 @@
+docs_list_title: Navigation
+docs:
+    - title: Autumn
+      url: first-year/autumn
+
+    - title: Winter
+      url: first-year/winter
+
+    - title: Spring
+      url: first-year/spring
