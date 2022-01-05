@@ -23,7 +23,7 @@ email: jiajunzh@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
     Hi! My name is Jason Zhang, I'm currently an honors first year computer science student
     at the University of Washington. This is my honors portfolio.
-baseurl: "/honors-portfolio" # the subpath of your site, e.g. /blog
+baseurl: "/honors-portfolio-jekyll" # the subpath of your site, e.g. /blog
 url: "https://zjjc123.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Zjjc123
 instagram_username: jasonzhang._
